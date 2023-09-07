@@ -6,7 +6,7 @@
 ## 研究業績
 - 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, ⻄脇靖紘. <br>
   専門家が平易化した記事を用いたやさしい日本語パラレルコーパスの構築. <br>
-  NLP若手の会第18回シンポジウム (YANS), August 2023.\[[PDF](https://moguranosenshi.sakura.ne.jp/files/yans2023-miyata.pdf)\]
+  NLP若手の会第18回シンポジウム (YANS), August 2023. \[[PDF](https://moguranosenshi.sakura.ne.jp/files/yans2023-miyata.pdf)\]
 
 - 樽本空宙, 畠垣光希, 宮田莉奈, 梶原智之, 二宮崇. <br>
   系列変換タスクにおける ChatGPT の日本語生成能力の評価. <br>
