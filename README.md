@@ -5,25 +5,29 @@
 
 ## 研究業績
 
-- 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, 西脇靖紘. <br>
-  MATCHA:専門家が平易化した記事を用いたやさしい日本語パラレルコーパス. <br>
-  自然言語処理, Vol.31, No.2, June 2024. (掲載予定)
+- 査読あり
+  
+  - 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, 西脇靖紘. <br>
+    MATCHA:専門家が平易化した記事を用いたやさしい日本語パラレルコーパス. <br>
+    自然言語処理, Vol.31, No.2, June 2024. (掲載予定)
+  
+  - 樽本空宙, 畠垣光希, 宮田莉奈, 梶原智之, 二宮崇. <br>
+    ChatGPTの日本語生成能力の評価. <br>
+    自然言語処理, Vol.31, No.2, June 2024. (掲載予定)
 
-- 樽本空宙, 畠垣光希, 宮田莉奈, 梶原智之, 二宮崇. <br>
-  ChatGPTの日本語生成能力の評価. <br>
-  自然言語処理, Vol.31, No.2, June 2024. (掲載予定)
+- 査読なし
   
-- 樽本空宙, 畠垣光希, 宮田莉奈, 梶原智之, 二宮崇. <br>
-  系列変換タスクにおける ChatGPT の日本語生成能力の評価. <br>
-  第22回情報科学技術フォーラム (FIT), September 2023. \[[PDF](https://moguranosenshi.sakura.ne.jp/publications/fit2023-tarumoto.pdf)\]
-  
-- 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, ⻄脇靖紘. <br>
-  専門家が平易化した記事を用いたやさしい日本語パラレルコーパスの構築. <br>
-  NLP若手の会第18回シンポジウム (YANS), August 2023. \[[PDF](https://moguranosenshi.sakura.ne.jp/files/yans2023-miyata.pdf)\]
-  
-- 惟高日向, 山内洋輝, 柳本大輝, 宮田莉奈, 梶原智之, 二宮崇, 西脇靖紘. <br>
-  専門家が平易化した記事を用いたやさしい日本語パラレルコーパスの試作. <br>
-  人工知能学会第37回全国大会 (JSAI), June 2023. \[[PDF](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3Xin414/_article/-char/ja/)\]
+  - 樽本空宙, 畠垣光希, 宮田莉奈, 梶原智之, 二宮崇. <br>
+    系列変換タスクにおける ChatGPT の日本語生成能力の評価. <br>
+    第22回情報科学技術フォーラム (FIT), September 2023. \[[PDF](https://moguranosenshi.sakura.ne.jp/publications/fit2023-tarumoto.pdf)\]
+    
+  - 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, ⻄脇靖紘. <br>
+    専門家が平易化した記事を用いたやさしい日本語パラレルコーパスの構築. <br>
+    NLP若手の会第18回シンポジウム (YANS), August 2023. \[[PDF](https://moguranosenshi.sakura.ne.jp/files/yans2023-miyata.pdf)\]
+    
+  - 惟高日向, 山内洋輝, 柳本大輝, 宮田莉奈, 梶原智之, 二宮崇, 西脇靖紘. <br>
+    専門家が平易化した記事を用いたやさしい日本語パラレルコーパスの試作. <br>
+    人工知能学会第37回全国大会 (JSAI), June 2023. \[[PDF](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3Xin414/_article/-char/ja/)\]
 
 ## 受賞
 
