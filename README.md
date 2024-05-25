@@ -1,6 +1,6 @@
 ## プロフィール
 - 名前:宮田 莉奈
-- 所属:愛媛大学 工学部 工学科 [人工知能研究室](https://sites.google.com/view/ehime-nlp/) B4
+- 所属:愛媛大学 工学部 工学科 [人工知能研究室](https://sites.google.com/view/ehime-nlp/) M1
 - mail:miyata@ai.cs.ehime-u.ac.jp
 
 ## 研究業績
