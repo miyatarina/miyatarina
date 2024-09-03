@@ -9,11 +9,11 @@
   
   - 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, 西脇靖紘. <br>
     MATCHA：専門家が平易化した記事を用いたやさしい日本語パラレルコーパス. <br>
-    自然言語処理, Vol.31, No.2, June 2024. \[[PDF](https://www.jstage.jst.go.jp/article/jnlp/31/2/31_590/_article/-char/ja)\] \[[DATA](https://github.com/miyatarina/matcha)\]
+    自然言語処理, Vol.31, No.2, p.590-609, June 2024. \[[PDF](https://www.jstage.jst.go.jp/article/jnlp/31/2/31_590/_article/-char/ja)\] \[[DATA](https://github.com/miyatarina/matcha)\]
   
   - 樽本空宙, 畠垣光希, 宮田莉奈, 梶原智之, 二宮崇. <br>
     ChatGPTの日本語生成能力の評価. <br>
-    自然言語処理, Vol.31, No.2, June 2024. \[[PDF](https://www.jstage.jst.go.jp/article/jnlp/31/2/31_349/_article/-char/ja)\]
+    自然言語処理, Vol.31, No.2, p.349-373, June 2024. \[[PDF](https://www.jstage.jst.go.jp/article/jnlp/31/2/31_349/_article/-char/ja)\]
 
 - 国内会議
   - 宮田莉奈, 眞鍋光汰, 福島啓太, 花房健太郎, 高田一慶, 梶原智之, 桂井麻里衣, 二宮崇. <br>
@@ -22,7 +22,7 @@
     
   - 樽本空宙, 畠垣光希, 宮田莉奈, 梶原智之, 二宮崇. <br>
     系列変換タスクにおける ChatGPT の日本語生成能力の評価. <br>
-    第22回情報科学技術フォーラム (FIT), September 2023. \[[PDF](https://moguranosenshi.sakura.ne.jp/publications/fit2023-tarumoto.pdf)\]
+    第22回情報科学技術フォーラム (FIT), p.329-336, September 2023. \[[PDF](https://moguranosenshi.sakura.ne.jp/publications/fit2023-tarumoto.pdf)\]
     
   - 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, ⻄脇靖紘. <br>
     専門家が平易化した記事を用いたやさしい日本語パラレルコーパスの構築. <br>
