@@ -16,7 +16,10 @@
     自然言語処理, Vol.31, No.2, June 2024. (掲載予定)
 
 - 国内会議
-  
+  - 宮田莉奈, 眞鍋光汰, 福島啓太, 花房健太郎, 高田一慶, 梶原智之, 桂井麻里衣, 二宮崇. <br>
+    情報科学分野における学会発表タイトルの分野推定データセットの構築. <br>
+    NLP若手の会第19回シンポジウム (YANS), September 2024.
+    
   - 樽本空宙, 畠垣光希, 宮田莉奈, 梶原智之, 二宮崇. <br>
     系列変換タスクにおける ChatGPT の日本語生成能力の評価. <br>
     第22回情報科学技術フォーラム (FIT), September 2023. \[[PDF](https://moguranosenshi.sakura.ne.jp/publications/fit2023-tarumoto.pdf)\]
