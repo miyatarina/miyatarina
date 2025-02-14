@@ -1,5 +1,5 @@
 ## プロフィール
-- 名前:宮田 莉奈
+- 名前:宮田 莉奈（Rina Miyata）
 - 所属:愛媛大学大学院 理工学研究科 理工学専攻 数理情報プログラム [人工知能研究室](https://sites.google.com/view/ehime-nlp/) M1
 - mail:miyata@ai.cs.ehime-u.ac.jp
 
