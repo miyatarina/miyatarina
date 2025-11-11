@@ -17,7 +17,7 @@
 - 国際会議
   - Rina Miyata, Koki Horiguchi, Risa Kondo, Yuki Fujiwara and Tomoyuki Kajiwara. <dr>
     EhiMeNLP at TSAR 2025 Shared Task: Candidate Generation via Iterative Simplification and Reranking by Readability and Semantic Similarity. <dr>
-    In proceedings of the 30th Workshop on Text Simplification, Accessibility and Readability (TSAR 2025), pp.217–222, Suzhou, China, November, 2025. \[[PDF]((https://aclanthology.org/2025.tsar-1.18/))\]
+    In proceedings of the 30th Workshop on Text Simplification, Accessibility and Readability (TSAR 2025), pp.217–222, Suzhou, China, November, 2025. \[[PDF](https://aclanthology.org/2025.tsar-1.18/)\]
   - Rina Miyata, Toru Urakawa, Hideaki Tamori, Tomoyuki Kajiwara. <br>
     Unsupervised Sentence Readability Estimation Based on Parallel Corpora for Text Simplification. <br>
     In proceedings of the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025), pp.499–504, Vienna, Austria, July, 2025. \[[PDF](https://aclanthology.org/2025.bea-1.36.pdf)\]
