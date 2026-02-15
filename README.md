@@ -78,6 +78,21 @@
 
 ## 受賞
 
+- TSAR2025 Shared Task 優勝
+  > Rina Miyata, Koki Horiguchi, Risa Kondo, Yuki Fujiwara and Tomoyuki Kajiwara. <dr>
+  > EhiMeNLP at TSAR 2025 Shared Task: Candidate Generation via Iterative Simplification and Reranking by Readability and Semantic Similarity. <dr>
+  > In proceedings of the Fourth Workshop on Text Simplification, Accessibility and Readability (TSAR 2025), pp.217–222, Suzhou, China, November, 2025.
+  
+- NLP若手の会第20回シンポジウム (YANS2025) ハッカソン賞
+  > 花里太郎, 宮田莉奈, 松本和真, 長谷川令, 齋藤幸史郎. <br>
+  > DPO部門. <br>
+  > NLP若手の会第20回シンポジウム (YANS), September 2025.
+
+- NLP若手の会第20回シンポジウム (YANS2025) スポンサー賞
+  > 藤原有希, 宮田莉奈, 梶原智之, 荒瀬由紀. <br>
+  > CEFRに基づく文難易度を連続的に制御可能なテキスト平易化. <br>
+  > NLP若手の会第20回シンポジウム (YANS), September 2025.
+  
 - 第22回情報科学技術フォーラム (FIT2023) 奨励賞
   > 樽本空宙, 畠垣光希, 宮田莉奈, 梶原智之, 二宮崇. <br>
   > 系列変換タスクにおける ChatGPT の日本語生成能力の評価. <br>
