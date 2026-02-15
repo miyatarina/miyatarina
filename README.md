@@ -83,9 +83,9 @@
   > EhiMeNLP at TSAR 2025 Shared Task: Candidate Generation via Iterative Simplification and Reranking by Readability and Semantic Similarity. <dr>
   > In proceedings of the Fourth Workshop on Text Simplification, Accessibility and Readability (TSAR 2025), pp.217–222, Suzhou, China, November, 2025.
   
-- NLP若手の会第20回シンポジウム (YANS2025) ハッカソン賞
+- NLP若手の会第20回シンポジウム (YANS2025) ハッカソン 審査員特別賞
   > 花里太郎, 宮田莉奈, 松本和真, 長谷川令, 齋藤幸史郎. <br>
-  > DPO部門. <br>
+  > 第20回言語処理若手シンポジウム分野交流ハッカソン DPO部門. <br>
   > NLP若手の会第20回シンポジウム (YANS), September 2025.
 
 - NLP若手の会第20回シンポジウム (YANS2025) スポンサー賞
