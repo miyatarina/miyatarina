@@ -77,6 +77,17 @@
     人工知能学会第37回全国大会 (JSAI), June 2023. \[[PDF](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3Xin414/_article/-char/ja/)\]
 
 ## 受賞
+- 2025年度愛媛大学学長賞
+  
+- 言語処理学会第32回年次大会 委員特別賞
+  > 藤原有希, 宮田莉奈, 梶原智之, 荒瀬由紀. <br>
+  > 埋め込みノルムによる連続的な文難易度制御. <br>
+  > 言語処理学会第32回年次大会 (NLP), March 2026.
+  
+- 言語処理学会第32回年次大会 スポンサー賞
+  > 藤原有希, 宮田莉奈, 梶原智之, 荒瀬由紀. <br>
+  > 埋め込みノルムによる連続的な文難易度制御. <br>
+  > 言語処理学会第32回年次大会 (NLP), March 2026.
 
 - TSAR2025 Shared Task 優勝
   > Rina Miyata, Koki Horiguchi, Risa Kondo, Yuki Fujiwara and Tomoyuki Kajiwara. <dr>
